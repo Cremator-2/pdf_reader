@@ -1,0 +1,7 @@
+vscode/
+__pycache__
+secret.json
+config.py
+.idea/
+venv
+.ipynb_checkpoints/
